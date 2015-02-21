@@ -3,3 +3,4 @@ angular.module("myApp", [])
 		$scope.helloTo = {};
 		$scope.helloTo.title = "World, AngularJS and Git";
 	});
+

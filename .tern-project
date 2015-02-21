@@ -1,0 +1,10 @@
+{
+	"libs": [
+		"broswer",
+		"underscore",
+		"jquery", 
+		"ecma5"
+			],
+		"angular": "./" {
+		}
+}
